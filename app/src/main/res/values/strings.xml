@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidTest</string>
+    <string name="api_key">https://www.themealdb.com/api/json/v1/1/</string>
+    <string name="base_thumb">https://www.themealdb.com/api/json/v1/1/</string>
+</resources>
